@@ -53,7 +53,7 @@ export default function HeaderLinks(props) {
      
       <ListItem className={classes.listItem}>
         <Button
-          href="https://github.com/sanoj-chaudhary/nextjs-material-kit"
+          href="https://github.com/sanoj-chaudhary/nextjs-material-kit-main"
           color="transparent"
           target="_blank"
           className={classes.navLink}
@@ -74,7 +74,7 @@ export default function HeaderLinks(props) {
           classes={{ tooltip: classes.tooltip }}
         >
           <Button
-            href="https://twitter.com/CreativeTim?ref=creativetim"
+            href="#"
             target="_blank"
             color="transparent"
             className={classes.navLink}
@@ -92,7 +92,7 @@ export default function HeaderLinks(props) {
         >
           <Button
             color="transparent"
-            href="https://www.facebook.com/CreativeTim?ref=creativetim"
+            href="#"
             target="_blank"
             className={classes.navLink}
           >
@@ -109,7 +109,7 @@ export default function HeaderLinks(props) {
         >
           <Button
             color="transparent"
-            href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+            href="#"
             target="_blank"
             className={classes.navLink}
           >
